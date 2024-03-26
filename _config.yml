@@ -1,1 +1,4 @@
+title: Capyboo
 theme: minima
+minima:
+    skin: classic
