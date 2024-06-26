@@ -1,3 +1,5 @@
+![image](logo.png)
+
 What's the most annoying thing about social networks? Elon Musk? Meta pulling the strings? Trump supporters? Too much clickbait? Ads? Irrelevant timelines? 
 
 And you can't really leave because every time you did, you have to bootstrap your followers all over again!
